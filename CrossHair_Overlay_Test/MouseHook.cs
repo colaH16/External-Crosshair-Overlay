@@ -132,7 +132,7 @@ namespace External_Crosshair_Overlay
             {
                 mcrosshairOverlayWindow.SetCrosshairTransparency = transparent;
             }
-            ㅁ
+
             return MouseHook.CallNextHookEx(hookHandle, nCode, wParam, lParam);
 
         }
