@@ -1,4 +1,4 @@
-### This program is based on [gmastergreatee](https://github.com/gmastergreatee)/ExternalCrosshairOverlay](https://github.com/gmastergreatee/ExternalCrosshairOverlay.)
+### This program is based on [gmastergreatee](https://github.com/gmastergreatee)/[ExternalCrosshairOverlay](https://github.com/gmastergreatee/ExternalCrosshairOverlay.)
 
 #### modded Features
 Mouse hook is added for added function.
