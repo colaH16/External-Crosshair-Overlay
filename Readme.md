@@ -3,7 +3,7 @@
 #### modded Features
 Mouse hook is added for added function.
 - [x] Crosshair disappears while holding down the right mouse button.
-- [x] Disappears while holding down mouse button 5 times.
+- [x] Disappears while holding down mouse button 5 button.
 
 # Original Readme
 
